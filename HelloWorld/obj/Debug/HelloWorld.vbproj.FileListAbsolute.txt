@@ -1,0 +1,11 @@
+C:\Users\ahurtado\source\repos\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\ahurtado\source\repos\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\ahurtado\source\repos\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\ahurtado\source\repos\HelloWorld\bin\Debug\HelloWorld.xml
+C:\Users\ahurtado\source\repos\HelloWorld\obj\Debug\HelloWorld.vbprojResolveAssemblyReference.cache
+C:\Users\ahurtado\source\repos\HelloWorld\obj\Debug\HelloWorld.Resources.resources
+C:\Users\ahurtado\source\repos\HelloWorld\obj\Debug\HelloWorld.vbproj.GenerateResource.Cache
+C:\Users\ahurtado\source\repos\HelloWorld\obj\Debug\HelloWorld.vbproj.CoreCompileInputs.cache
+C:\Users\ahurtado\source\repos\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\ahurtado\source\repos\HelloWorld\obj\Debug\HelloWorld.xml
+C:\Users\ahurtado\source\repos\HelloWorld\obj\Debug\HelloWorld.pdb
