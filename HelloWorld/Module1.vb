@@ -5,6 +5,7 @@
         Console.WriteLine("Hello World")
         Console.Beep()
         Console.WriteLine("But what I want to say is 'Hey bitch'")
+        Console.Beep()
         Console.ReadLine()
 
 
