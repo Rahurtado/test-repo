@@ -9,7 +9,9 @@
         Console.WriteLine("'I see you, and I just want to dance with you
 Everytime they turn the lights out.'")
         Console.ReadLine()
+        Console.WriteLine("'Make America Great Again'")
         Console.Beep()
+
         Console.ReadLine()
 
 
